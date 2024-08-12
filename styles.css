@@ -14,6 +14,10 @@
     display: block;
 }
 
+.sidebar a::selection{
+    background-color: black;
+}
+
 .main{
     margin-left: 7%;
     padding: 0px 10px;
